@@ -8,14 +8,14 @@ This repository contains weekly laboratory programs for the Design and Analysis 
 ## Completed Programs
 
 | Week | Algorithm | Status |
-|------|-------------------------------|-----------|
+|------|-----------------------------------------------|-----------|
 | 1 | Quick Sort | Completed |
+| 2 | Merge Sort | Completed |
+| 3 | Minimum Spanning Tree using Prim's Algorithm | Completed |
+| 4 | Minimum Spanning Tree using Kruskal's Algorithm | Completed |
 
 ## Upcoming Programs
 
-- Merge Sort
-- Minimum Spanning Tree using Prim's Algorithm
-- Minimum Spanning Tree using Kruskal's Algorithm
 - Sum of Subset Problem
 - Dijkstra's Shortest Path Algorithm
 - Bellman-Ford Algorithm
@@ -27,11 +27,17 @@ This repository contains weekly laboratory programs for the Design and Analysis 
 
 ## Repository Structure
 
-```
+```text
 DAA-Lab/
 │── README.md
 │── Week-01/
 │   └── QuickSort.c
+│── Week-02/
+│   └── MergeSort.c
+│── Week-03/
+│   └── PrimsMST.c
+│── Week-04/
+│   └── KruskalsMST.c
 ```
 
 ## Author
